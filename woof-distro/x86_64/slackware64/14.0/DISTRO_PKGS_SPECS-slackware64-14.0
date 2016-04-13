@@ -496,7 +496,7 @@ no|mplayerplug-in||exe| #hacked for opera only use 20130213
 yes|mplayer_codecs_basic||exe
 yes|mpscan||exe
 no|ms-sys||exe
-yes|mscw||exe
+no|mscw||exe
 yes|mtp_detect||exe
 yes|mtpaint||exe
 yes|mtpstatus||exe| #mtp_detect status icon
@@ -632,7 +632,7 @@ yes|puppyphone||exe| #newer version
 no|puppyserialdetect||exe
 no|pupradio||exe,nls
 no|puptv||exe
-yes|pupx||exe
+no|pupx||exe
 yes|pure-ftpd||exe
 no|pwallpaper||exe
 no|pwget||exe
